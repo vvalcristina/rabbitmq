@@ -16,6 +16,7 @@ Uma mensagem é dividida em duas partes:
 **Fila**
 
 Onde as mensagens ficam retidas:
+
 ![Captura de tela de 2021-10-25 20-07-37](https://user-images.githubusercontent.com/52939036/138782872-d2096451-fced-40fc-a9a1-1127bfc5daa5.png)
 
 **Publisher**
@@ -29,11 +30,6 @@ Onde as mensagens ficam retidas:
 Responsável por consumir a informação, ou seja, retirar a mensagem da fila.
 
 ![Captura de tela de 2021-10-25 20-10-42](https://user-images.githubusercontent.com/52939036/138783073-4f12a465-8c5e-4052-90f5-74fd6892d3ca.png)
-
-
-## RabbitMQ com Python
-
-Utilizando o RabbitMQ com Python.
 
 
 [RabbitMQ]: https://www.rabbitmq.com/documentation.html
